@@ -14,5 +14,9 @@ public class HomePage {
         System.out.println("Red");
         System.out.println("Green");
         System.out.println("Blue");
+
+        System.out.println("Chicken");
+        System.out.println("Green Tea");
+        System.out.println("Almonds");
     }
 }
