@@ -8,5 +8,8 @@ public class HomePage {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Desktop\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
+
+        System.out.println("Hello");
+        System.out.println("Bye");
     }
 }
