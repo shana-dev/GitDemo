@@ -11,5 +11,8 @@ public class HomePage {
 
         System.out.println("Hello");
         System.out.println("Bye");
+        System.out.println("Red");
+        System.out.println("Green");
+        System.out.println("Blue");
     }
 }
